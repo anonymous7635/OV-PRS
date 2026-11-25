@@ -1,6 +1,7 @@
 <div align="center">
   <h1>Robot Only Look Once: Advancing ERP-Native Open-Vocabulary Panoramic Referring Segmentation for Embodied Target Acquisition and Inspection</h1>
   <p><strong>Anonymous Submission</strong></p>
+  <p><a href="https://anonymous7635.github.io/OV-PRS/">Project page</a></p>
   <img src="docs/teaser.png" alt="Robot Only Look Once overview, from single-panorama referring segmentation to inspection target acquisition." width="920">
 </div>
 
